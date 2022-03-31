@@ -32,5 +32,10 @@ If I was given the time to build or learn anything I would like to learn and exp
 
 **Coding Challenge**
 
+References:
+https://www.w3schools.com/w3css/w3css_templates.asp
+https://www.digitalocean.com/community/tutorials/how-to-add-a-background-image-to-the-top-section-of-your-webpage-with-html
+
+
 Link:
 https://codesandbox.io/s/2022-internship-exercise-menu-forked-vwjy6k?file=/index.html
